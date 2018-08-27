@@ -15,5 +15,16 @@
   "bugs": {
     "url": "https://github.com/10Volo/Stella-maris/issues"
   },
-  "homepage": "https://github.com/10Volo/Stella-maris#readme"
+  "homepage": "https://github.com/10Volo/Stella-maris#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-install": "^1.1.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.24.7",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.1",
+    "precss": "^3.1.2"
+  }
 }
